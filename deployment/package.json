@@ -1,0 +1,10 @@
+{
+  "name": "super-minimal-nuxt",
+  "engines": {
+    "node": ">=6.11",
+    "npm": ">=5.6.0"
+  },
+  "dependencies": {    
+    "nuxt-edge": "latest"
+  }
+}
